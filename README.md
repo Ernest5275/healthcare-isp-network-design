@@ -26,7 +26,6 @@ In response to an RFP, our team designed a secure network architecture connectin
 - Planned Packet Tracer validation of routing, segmentation, and failover
 
 ## 📊 Diagrams
-*Logical architecture diagram coming soon.*
 <img width="1686" height="684" alt="image" src="https://github.com/user-attachments/assets/319937cd-eef3-4c4a-b3a7-464d802bccfe" />
 ### Network Topology (Cisco Packet Tracer)
 The topology connects headquarters, Chicago, and Orlando sites to a central data center, with all Internet traffic passing through a Cisco ASA firewall.
